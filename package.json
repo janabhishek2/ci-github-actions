@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-	"lint": "eslint .",
-	"lint-fix": "node_modules/.bin/eslint . --fix",
+    "lint": "eslint .",
+    "lint-fix": "node_modules/.bin/eslint . --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
